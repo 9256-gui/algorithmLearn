@@ -1,4 +1,4 @@
-package ght.myAnswer;
+package ght.myAnswer.leetcode;
 
 public class Code_493 {
     public int reversePairs(int[] nums) {

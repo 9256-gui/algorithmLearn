@@ -1,4 +1,4 @@
-package ght.myAnswer;
+package ght.myAnswer.leetcode;
 
 import java.util.*;
 

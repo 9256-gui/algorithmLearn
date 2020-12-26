@@ -1,4 +1,4 @@
-package ght.myAnswer;
+package ght.myAnswer.leetcode;
 
 public class Code_43 {
     public int countDigitOne(int n) {
